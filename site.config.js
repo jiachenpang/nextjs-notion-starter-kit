@@ -1,15 +1,15 @@
 export default {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '9ce49ade844e4bf3b89d638b77c37479',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Pang的个人博客',
+  domain: 'https://pangjiachen.notion.site/9ce49ade844e4bf3b89d638b77c37479',
+  author: '庞家琛',
 
   // open graph metadata (optional)
   description: 'Example site description',
